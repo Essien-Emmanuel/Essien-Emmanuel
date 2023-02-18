@@ -1,4 +1,5 @@
-![MasterHead]<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1vTZtIisDvI7aSmFCGGWgj5Qha9nFe9dzQ&usqp=CAU" alt="DevEssien" /> 
+<p align='center'> 
+   <img src="https://img.freepik.com/premium-vector/back-end-development-concept_277904-11497.jpg" alt="DevEssien" /> 
 </p>
 <!-- (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1vTZtIisDvI7aSmFCGGWgj5Qha9nFe9dzQ&usqp=CAU) -->
 
