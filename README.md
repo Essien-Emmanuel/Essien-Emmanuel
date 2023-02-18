@@ -1,9 +1,6 @@
-![MasterHead]
-
-<!-- (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1vTZtIisDvI7aSmFCGGWgj5Qha9nFe9dzQ&usqp=CAU) -->
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1vTZtIisDvI7aSmFCGGWgj5Qha9nFe9dzQ&usqp=CAU" alt="DevEssien" /> 
+![MasterHead]<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1vTZtIisDvI7aSmFCGGWgj5Qha9nFe9dzQ&usqp=CAU" alt="DevEssien" /> 
 </p>
+<!-- (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1vTZtIisDvI7aSmFCGGWgj5Qha9nFe9dzQ&usqp=CAU) -->
 
 <h1 align="center">Hi 👋, I'm Essien Emmanuel</h1>      
 <h3 align="center">A passionate Web developer with proficiency in backend development</h3>
