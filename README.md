@@ -7,15 +7,15 @@
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a> 
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
- <a target='_blank' rel="noreferrer" href='https://twitter.com/XanderDev2'>
+ <a target='_blank' rel="noreferrer" href='https://twitter.com/Essien300'>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a>
 </div>
-<p align='center'> 
+<!-- <p align='center'> 
 <img src="https://komarev.com/ghpvc/?username=DevEssien&label=Profile%20views&color=0e75b6&style=flat" alt="DevXanderCode" /> 
-</p>
+</p> -->
 
-<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13"> 
+<!-- <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">  -->
 
 
 
