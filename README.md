@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Essien Emmanuel</h1>      
 <h3 align="center">A passionate Web developer with proficiency in backend development</h3>
 <div id="badges" align='center'>
-   <a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/chinedu-alex-nweke">
+   <a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/essien-emmanuel-samuel-199aaa252/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a> 
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
