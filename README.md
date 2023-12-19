@@ -1,6 +1,6 @@
-<p align='center'> 
+<!-- <p align='center'> 
    <img src="https://img.freepik.com/premium-vector/back-end-development-concept_277904-11497.jpg" alt="DevEssien" height="500px" width="3000px"/> 
-</p>
+</p> -->
 <!-- (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1vTZtIisDvI7aSmFCGGWgj5Qha9nFe9dzQ&usqp=CAU) -->
 
 <h1 align="center">Hi 👋, I'm Essien Emmanuel</h1>      
