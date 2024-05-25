@@ -28,14 +28,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **GradeTrac**
-- 🌱 I’m currently learning **Nodejs TypeScript, Postgres**
+- 🔭 I’m currently working on **Interactro**
+- 🌱 I’m currently learning **Nodejs TypeScript, php**
 - 👯 I’m looking to collaborate on **high impact startups, fintech and open source**
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **JavaScript, python, Nodejs, HTML , CSS , Bootstrap, mongodb, sql**
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
- - ⚡ Fun fact: **i watch amime and loves playing games** 
+ - ⚡ Fun fact: **I watch amime and love playing games** 
 
 
 <h3 align="left">Languages and Tools:</h3>  
