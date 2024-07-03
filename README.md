@@ -1,5 +1,5 @@
 <!-- <p align='center'> 
-   <img src="https://img.freepik.com/premium-vector/back-end-development-concept_277904-11497.jpg" alt="DevEssien" height="500px" width="3000px"/> 
+   <img src="https://img.freepik.com/premium-vector/back-end-development-concept_277904-11497.jpg" alt="Essien-Emmanue" height="500px" width="3000px"/> 
 </p> -->
 <!-- (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1vTZtIisDvI7aSmFCGGWgj5Qha9nFe9dzQ&usqp=CAU) -->
 
@@ -15,7 +15,7 @@
  </a>
 </div>
 <!-- <p align='center'> 
-<img src="https://komarev.com/ghpvc/?username=DevEssien&label=Profile%20views&color=0e75b6&style=flat" alt="DevXanderCode" /> 
+<img src="https://komarev.com/ghpvc/?username=Essien-Emmanue&label=Profile%20views&color=0e75b6&style=flat" alt="Essien-Emmanue" /> 
 </p> -->
 
 <!-- <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">  -->
@@ -66,22 +66,22 @@ Here are some ideas to get you started:
     </a>
 </p>    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevEssien&langs_count=20&show_icons=true&locale=en&layout=compact" alt="DevEssien" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Essien-Emmanuel&langs_count=20&show_icons=true&locale=en&layout=compact" alt="Essien-Emmanuel" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevEssien&show_icons=true&locale=en" alt="DevEssien" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Essien-Emmanuel&show_icons=true&locale=en" alt="Essien-Emmanuel" /></p>
 
 
 <p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevEssien" alt="DevEssien" /></p>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Essien-Emmanuel" alt="Essien-Emmanue" /></p>
 <p>
 
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevEssien&theme=github" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Essien-Emmanue&theme=github" />
 </p>
 <p>
-<img align="center" src="https://github-stats-alpha.vercel.app/api?username=DevEssien&bc=ebebeb&ic=0E8AD9" alt="DevEssien" />
+<img align="center" src="https://github-stats-alpha.vercel.app/api?username=Essien-Emmanue&bc=ebebeb&ic=0E8AD9" alt="Essien-Emmanue" />
 </p>
 <!-- -->
   
