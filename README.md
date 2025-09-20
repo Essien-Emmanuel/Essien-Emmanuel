@@ -28,7 +28,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **Interactro**
+- 🔭 I’m currently working on **Prizaar**
 - 🌱 I’m currently learning **Nodejs TypeScript, php**
 - 👯 I’m looking to collaborate on **high impact startups, fintech and open source**
 <!-- - 🤔 I’m looking for help with ... -->
